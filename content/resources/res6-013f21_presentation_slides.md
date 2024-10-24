@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: /courses/res-6-013-ai-101-fall-2021/res6-013f21_presentation_slides.pdf
+file: /ol-ocw-studio-app/courses/res-6-013-ai-101-fall-2021/res6-013f21_presentation_slides.pdf
 file_size: 3175447
 file_type: application/pdf
 image_metadata:
