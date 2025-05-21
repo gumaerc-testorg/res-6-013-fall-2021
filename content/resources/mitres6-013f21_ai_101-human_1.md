@@ -3,7 +3,7 @@ body: ''
 content_type: resource
 description: ''
 draft: false
-file: /ol-ocw-studio-app/courses/res-6-013-ai-101-fall-2021/mitres6-013f21_ai_101-human_1_360p_16_9.mp4
+file: courses/res-6-013-ai-101-fall-2021/mitres6-013f21_ai_101-human_1_360p_16_9.mp4
 file_size: 50885026
 file_type: video/mp4
 image_metadata:
