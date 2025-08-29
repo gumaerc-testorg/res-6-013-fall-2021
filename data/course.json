@@ -23,6 +23,8 @@
     "website": "res-6-013-ai-101-fall-2021"
   },
   "course_title": "AI 101",
+  "hide_download": false,
+  "mit_learn_topics": [],
   "course_description": "*Machine vision.\u00a0Data\u00a0wrangling.\u00a0Reinforcement learning.* What do these terms even mean? In\u00a0AI\u00a0101, MIT researcher Brandon Leshchinskiy offers an introduction to artificial intelligence that's designed specifically for those with little to no background in the subject. The workshop starts with a summary of key concepts in\u00a0AI, followed by an interactive exercise where participants train their own algorithm. Finally, it closes with a summary of key takeaways and Q/A. All are welcome!",
   "department_numbers": [
     "6"
@@ -34,8 +36,10 @@
     "website": "res-6-013-ai-101-fall-2021"
   },
   "learning_resource_types": [
-    "Video Materials"
+    "Video Materials",
+    "Editable Files"
   ],
   "site_uid": "6c7bcd6a-1293-4483-be2b-a12fa9b9ef96",
-  "site_short_id": "res-6-013-fall-2021"
+  "site_short_id": "res-6-013-fall-2021",
+  "site_url_path": "courses/res-6-013-ai-101-fall-2021"
 }
