@@ -2,24 +2,27 @@
 body: ''
 content_type: resource
 description: ''
-draft: ''
-file: /ol-ocw-studio-app/courses/res-6-013-ai-101-fall-2021/res-6-013f21-th.jpg
-file_size: 4767
-file_type: image/jpeg
+draft: false
+file: /ol-ocw-studio-app/courses/res-6-013-ai-101-fall-2021/res6-013f21_presentation_slides.pdf
+file_size: 3175447
+file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
-resourcetype: Image
-title: RES-6-013f21-th.jpg
-uid: 11b4de4b-bae3-4cd3-a56c-a064393fb619
+resourcetype: Document
+title: Presentation Slide Deck (PDF - 3 MB)
+uid: 9c4f37f8-ff0c-4d88-a46a-de0774fb7727
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
 video_metadata:
+  source: ''
   video_speakers: ''
   video_tags: ''
   youtube_description: ''
